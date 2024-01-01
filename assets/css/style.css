@@ -6894,27 +6894,27 @@ body {
 /* update */
 /* services section */
 .tm-service:hover .nail-icon {
-  background-image: url('/assets/img/icon/nails-light.svg');
+  background-image: url('../img/icon/nails-light.svg');
 }
 
 .tm-service:hover .lipstick-icon {
-  background-image: url('/assets/img/icon/lipstick-light.svg');
+  background-image: url('../img/icon/lipstick-light.svg');
 }
 
 .tm-service:hover .product-icon {
-  background-image: url('/assets/img/icon/product-light.svg');
+  background-image: url('../img/icon/product-light.svg');
 }
 
 .tm-service:hover .house-icon {
-  background-image: url('/assets/img/icon/house-light.svg');
+  background-image: url('../img/icon/house-light.svg');
 }
 
 .tm-service:hover .massage-icon {
-  background-image: url('/assets/img/icon/massage-light.svg');
+  background-image: url('../img/icon/massage-light.svg');
 }
 
 .tm-service:hover .pedicure-icon {
-  background-image: url('/assets/img/icon/pedicure-light.svg');
+  background-image: url('../img/icon/pedicure-light.svg');
 }
 
 
@@ -6938,23 +6938,23 @@ body {
 }
 
 .lipstick-icon {
-  background-image: url('img/icon/lipstick-dark.svg');
+  background-image: url('../img/icon/lipstick-dark.svg');
 }
 
 .product-icon {
-  background-image: url('/assets/img/icon/product-dark.svg');
+  background-image: url('../img/icon/product-dark.svg');
 }
 
 .house-icon {
-  background-image: url('/assets/img/icon/house-dark.svg');
+  background-image: url('../img/icon/house-dark.svg');
 }
 
 .massage-icon {
-  background-image: url('/assets/img/icon/massage-dark.svg');
+  background-image: url('../img/icon/massage-dark.svg');
 }
 
 .pedicure-icon {
-  background-image: url('/assets/img/icon/pedicure-dark.svg');
+  background-image: url('../img/icon/pedicure-dark.svg');
 }
 
 
